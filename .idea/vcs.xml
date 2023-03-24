@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/data-cleaning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data-security-audit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/data-security-enc-dec" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/edianyun-archetype" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/edianyun-namelist-spider" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/edianyun-starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/edz-message" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/longxin-data-center" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/namelist-assign-center" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/namelist-clean-center" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/namelist-crawling-center" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/potency-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/risk-indicator" vcs="Git" />
+  </component>
+</project>
